@@ -29,4 +29,5 @@
 <fullyQualifiedTypeName name="android.widget.LinearLayout"/>
 <fullyQualifiedTypeName name="android.view.MenuItem"/>
 <fullyQualifiedTypeName name="android.view.Menu"/>
+<fullyQualifiedTypeName name="com.EricWWright.dialogex.R.id"/>
 </qualifiedTypeNameHistroy>
